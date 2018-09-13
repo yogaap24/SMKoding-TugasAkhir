@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "8928540654",
+    "firebase_url": "https://chatapp-43999.firebaseio.com",
+    "project_id": "chatapp-43999",
+    "storage_bucket": "chatapp-43999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8928540654:android:cf86f75b94b48328",
+        "android_client_info": {
+          "package_name": "yogaap24.com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8928540654-d85pirfu07u2ci3u7h084tmrq602dvip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi2BzxSwcMqIAwRTIJwM-Ttpi7oBVMtgQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
